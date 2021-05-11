@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @elisa34, a student at Digital Campus Montpellier
+- # Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+-   I’m @elisa34, a student at Digital Campus Montpellier
 
 - 🖥 I’m interested in new technologies, UI-UX design, actually everything that is digital and video games.
 
@@ -45,3 +47,6 @@
 [instagram]: https://www.instagram.com/elisa.1.g/
 [linkedin]: www.linkedin.com/in/elisagest
 [dribbble]: https://dribbble.com/Elisa-g
+
+
+<img src="https://raw.githubusercontent.com/elisa34/elisa34/master/wfh.gif" width="30px">
