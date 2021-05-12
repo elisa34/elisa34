@@ -1,3 +1,6 @@
+![wfh](https://user-images.githubusercontent.com/82802573/117935500-0d575380-b304-11eb-9db5-a139ef48979b.gif)
+
+
 - # Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 -   I’m @elisa34, a student at Digital Campus Montpellier
@@ -8,7 +11,7 @@
 
 - 📫 How to reach me : by email at elisa.gest@hotmail.fr 
 
-
+---
 ### Connect with me:
 
 [<img align="left" alt="ElisaG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,7 +36,6 @@
 <br />
 
 ---
-
 </details>
 
 <details>
@@ -48,5 +50,5 @@
 [linkedin]: www.linkedin.com/in/elisagest
 [dribbble]: https://dribbble.com/Elisa-g
 
-
-<img src="https://raw.githubusercontent.com/elisa34/elisa34/master/wfh.gif" width="30px">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82802573/117936386-14cb2c80-b305-11eb-9c44-c4ff25efdd3c.gif" width="300" height="200" />
