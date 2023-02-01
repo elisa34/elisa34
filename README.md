@@ -15,7 +15,6 @@
 
 [<img align="left" alt="ElisaG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="elisa.1.g | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Elisa-G | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 
 <br />
 
@@ -46,8 +45,7 @@
 
 
 [instagram]: https://www.instagram.com/elisa.1.g/
-[linkedin]: www.linkedin.com/in/elisagest
-[dribbble]: https://dribbble.com/Elisa-g
+[linkedin]: [www.linkedin.com/in/elisagest](https://www.linkedin.com/in/elisagest/)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82802573/117936386-14cb2c80-b305-11eb-9c44-c4ff25efdd3c.gif" width="300" height="200" />
