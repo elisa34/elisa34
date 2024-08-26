@@ -2,11 +2,11 @@
 
 - # Hello ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
--   I’m @elisa34, a student at Digital Campus Montpellier
+-   I’m @elisa34, a student in Montpellier ! 
 
-- 🖥 I’m interested in new technologies, UI-UX design, basically everything that is digital, tech and video games.
+- 🖥 I’m interested in new technologies, basically everything that is digital, tech and video games.
 
-- 📚 I’m currently learning to code in HTML/CSS, JS, PHP, how to use Adobe apps ( Photoshop, Illustrator, Indesign,XD, Premiere Pro) and web marketing. 
+- 📚 I’m currently studying QHSE at ESEQ Montpellier  
 
 - 📫 How to reach me : by email at elisa.gest@hotmail.fr 
 
